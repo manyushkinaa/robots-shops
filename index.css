@@ -96,3 +96,14 @@
 }
 
 /* FOOTER */
+
+
+.footer{
+    background: url(img/footer-bg.jpg);
+    background-size: cover;
+    padding: 100px 0px;
+}
+
+.copyright{
+    color: white
+}

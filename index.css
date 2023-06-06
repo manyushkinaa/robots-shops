@@ -85,6 +85,7 @@
     border-radius: 10px;
 }
 
+
 .card-title, .card-text{
     margin-bottom: 10px;
 }
@@ -97,7 +98,6 @@
 
 /* FOOTER */
 
-
 .footer{
     background: url(img/footer-bg.jpg);
     background-size: cover;
@@ -105,5 +105,5 @@
 }
 
 .copyright{
-    color: white
+    color: white;
 }
